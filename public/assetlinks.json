@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.yapay_zeka_is_haklari_ve_guvenligi_rehberi.twa",
+      "sha256_cert_fingerprints":
+        ["25:09:D5:81:D5:A5:F1:9F:81:69:42:83:AC:71:13:10:AA:97:C9:05:F7:F5:AC:4E:C3:18:7C:11:62:C0:1B:DC"]
+    }
+  }
+]
