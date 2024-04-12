@@ -63,7 +63,7 @@ const ChatPage = async ({ params: { chatId } }: Props) => {
           </p>
           <br /><br />
           <p>
-          <strong>-</strong> İşçilerin, işverenlerin, iş dünyasındaki diğer sınıfların ve grupların çeşitli iş yerleriyle karşılaştığı sorunlarla ilgili çözüm bulmak için tasarlanmıştır. İşçilerin iş haklarını korumak, işverenlerin ise iş güvenliği ve yasal düzenlemelere uyumu sağlamak gibi konularda bilgi ve yönlendirme sağlar. Sendikal haklar, tersine beyin göçü, işçi hakkı, ayrımcılık, mobbing gibi konularda mevcut haklar doğrultusunda rehberlik desteği sunar. İş yaşamıyla ile ilgili konularda öğrenilmek istenen konuya veya çözülmek istenen soruna göre, aşamalı olarak hangi yolların izleneceğine dair detaylı bir şekilde açıklama yapar.
+          <strong>-</strong> İşçilerin, işverenlerin, iş dünyasındaki diğer sınıfların ve grupların çeşitli iş yerleriyle karşılaştığı sorunlarla ilgili çözüm bulmak için tasarlanmıştır. İşçilerin iş haklarını korumak, işverenlerin ise iş güvenliği ve yasal düzenlemelere uyumu sağlamak gibi konularda bilgi ve yönlendirme sağlar. Sendikal haklar, tersine beyin göçü, işveren ve işçi hakkı, ayrımcılık, mobbing, iş sağlığı güvenliği gibi konularda mevcut haklar doğrultusunda rehberlik desteği sunar. İş yaşamıyla ile ilgili konularda öğrenilmek istenen konuya veya çözülmek istenen soruna göre, aşamalı olarak hangi yolların izleneceğine dair detaylı bir şekilde açıklama yapar.
           </p>
           <br /><br />
           <ul>
