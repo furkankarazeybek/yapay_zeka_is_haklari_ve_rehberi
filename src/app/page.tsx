@@ -22,7 +22,7 @@ export default async function Home() {
    }
 
   return (
-<div className="w-screen h-[1200px] sm:h-[1200px] lg:h-[950px] bg-gradient-to-r from-rose-100 to-teal-100 flex pt-10">
+<div className="w-screen h-[1200px] sm:h-[1200px] lg:h-[900px] bg-gradient-to-r from-rose-100 to-teal-100 flex pt-10">
 
    <div className="absolute sm:left-1/2 sm:-translate-x-1/2   ">
         <div className="flex flex-col items-center text-center">
