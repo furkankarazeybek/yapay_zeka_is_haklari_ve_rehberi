@@ -155,7 +155,7 @@ const ChatSideBar = ({ chats, chatId, isPro }: Props) => {
       </div>
       
 
-      <div className="flex max-h-screen overflow-scroll pb-20 flex-col gap-2 mt-4">
+      <div className="flex max-h-screen pb-20 flex-col gap-2 mt-4">
         {reversedChats.map((chat) => (
           <div key={chat.id} className="relative">
             {editChatId === chat.id ? (
