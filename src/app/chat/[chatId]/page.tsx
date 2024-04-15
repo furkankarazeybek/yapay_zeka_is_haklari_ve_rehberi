@@ -44,7 +44,7 @@ const ChatPage = async ({ params: { chatId } }: Props) => {
         <div className="max-h-screen  overflow-scroll flex-[5] hidden md:flex">
         
       
-        <div className="w-screen  h-[1200px] sm:h-[1200px] lg:h-[800px]  bg-gradient-to-r from-rose-100 to-teal-100 flex pt-10">
+        <div className="w-screen  h-[1200px] sm:h-[1200px] lg:h-[950px]  bg-gradient-to-r from-rose-100 to-teal-100 flex pt-10">
 
        < div className="absolute sm:left-1/2 sm:-translate-x-1/2   " style={{ display: 'contents' }}>
         <div className="flex flex-col items-center text-center">
